@@ -1,0 +1,45 @@
+JEHU - CURRICULUM VITAE
+
+PERSONAL INFORMATION
+Email: jehucadiz3@gmail.com
+Phone: +63 9 07 456 9882
+Location: San Vicente Pamplona, Philippines
+
+OBJECTIVE
+Focused and motivated IT student with a passion for technology, programming, and web development. Eager to learn new skills, build practical projects, and contribute to meaningful digital solutions.
+
+EDUCATION
+- Information Technology
+  STI College Naga City
+  2023 - Present
+
+- Senior High School
+  STI College Naga City
+  2021 - 2023
+
+SKILLS
+- HTML
+- CSS
+- JavaScript
+- C#
+- Web Development
+- UI/UX Design
+- Programming
+- Problem Solving
+- Responsive Design
+- Teamwork and Communication
+
+PROJECTS
+- Portfolio Website
+- Task Manager App
+- School Website
+
+EXPERIENCE
+- Freelance Web Developer
+  2024 - Present
+  Creating personal and client-oriented web projects and improving technical skills.
+
+CONTACT
+Email: jehucadiz3@gmail.com
+Phone: +63 9 07 456 9882
+Location: San Vicente Pamplona, Philippines
